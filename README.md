@@ -100,7 +100,7 @@ function validasi() {
             <input type="number" name="telp" id="telp"></p>
             <p>Email :
             <input type="email" name="email" id="email"></p>
-            <p><input type="submit" onClick="validasi()"           value="Submit"></p>
+            <p><input type="submit" onClick="validasi()" value="Submit"></p>
 </form>
 ```
 #### Penjelasan
