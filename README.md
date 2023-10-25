@@ -77,7 +77,7 @@ Pada email akan diberikan validasi masih berupa *Regular Expression*.
 -  Membuat variabel **email** "var email = /^([a-zA-Z0-9_.+-])+(([a-aZ-Z0-9-])+.)+([a-zA-Z0-9]){2,4})+$/; "berupa huruf, angka dan simbol yang diperbolehkan dalam menginputkan sebuah email.
 <img width="728" alt="image" src="https://github.com/sayaveni04/praktikum_PemWeb5/assets/115862597/b98f5884-f892-46f5-a217-8abf0974fe3c">
 
-## Validasi tambahan(pesan)
+## 4. Validasi tambahan(pesan)
 Validasi ini hanya tambahan yaitu *pesan alert* yang disampaikan setelah inputan dimasukkan.
 ```
 function validasi() {
